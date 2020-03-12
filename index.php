@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>first page</h1>
+<h1>first </h1>
 
 <?php
 echo "Hello World! test";
